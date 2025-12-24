@@ -113,7 +113,7 @@ src/
 └── adapters/
     ├── PaymentGatewayAdapter.js
     └── RazorpayAdapter.js
-
+```
 ---
 
 ## 🔄 High-Level Flow
