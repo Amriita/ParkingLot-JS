@@ -1,0 +1,16 @@
+{
+  "name": "parkinglot",
+  "version": "1.0.0",
+  "description": "studing about low level design of parking lot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "LLD",
+    "systemDesign",
+    "javascript"
+  ],
+  "author": "AmritaKadyan",
+  "license": "ISC"
+}
